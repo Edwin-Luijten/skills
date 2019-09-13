@@ -1,3 +1,1 @@
-{
-
-}
+{"weather":{"name":"weather","author":"Q-assistant","repository_url":"https://api.github.com/repos/Q-assistant/weather","last_updated":1568383468,"description":"Get weather information and notifications.","versions":{"edge":{"tag":"edge","hash":"3b2e2bca9e89d04f805b05be358bae67206af4da","created_at":1568383468,"dependencies":[]}}}}
