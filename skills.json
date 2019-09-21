@@ -1,1 +1,1 @@
-{}
+{"edge":{"name":"weather","author":"Edwin Luijten","repository_url":"","last_updated":1568986112,"description":"Get weather information and notifications.","versions":{"edge":{"tag":"edge","hash":"3b2e2bca9e89d04f805b05be358bae67206af4da","created_at":1568986112,"dependencies":[]}}}}
